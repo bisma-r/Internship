@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Capstone Report — Refresh / Content Opportunity Scoring"
+---
+
 
 # Capstone Report — Refresh / Content Opportunity Scoring
 
